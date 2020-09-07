@@ -1,0 +1,3 @@
+include ':rx-realtime-database'
+include ':app'
+rootProject.name = "realtime-database"
